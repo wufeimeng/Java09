@@ -18,7 +18,7 @@ class CCount{
     }
 
 }
-public class class0905 {
+public class class05 {
     public static void main(String[] args) {
        CCount num1=new CCount();
        CCount num2=new CCount();
