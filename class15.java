@@ -19,7 +19,7 @@ class CCircle
    }
 }
 
-public class test
+public class class15
 {
    public static void main(String args[])
    {
