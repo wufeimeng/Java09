@@ -16,7 +16,7 @@ public void show()
    System.out.println(" area="+pi*radius*radius);
 }
 }
-public class w161
+public class class16
 {
 public static void main(String args[])
 {
