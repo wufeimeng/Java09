@@ -15,7 +15,7 @@ class CCircle
       return max;
    }
 }
-public class class0916
+public class Class16
 {
   public static void main(String[] args) {
    CCircle cir[];
