@@ -18,7 +18,7 @@ class CRectangle{
     }
 
 }
-public class class0901 {
+public class class01 {
     public static void main(String[] args) {
         CRectangle ans1=new CRectangle(5,22);
         ans1.show();
