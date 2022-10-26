@@ -1,4 +1,4 @@
-package hw01;
+package Java09;
 
 class Namecard
  {
@@ -32,7 +32,7 @@ private String address;
  System.out.println("手機號碼:"+data.cell);
  }
  }
-    public class test {
+    public class class17 {
 
         public static void main(String[] args) {
         	Namecard first=new Namecard("Andy","123City",
